@@ -1,0 +1,6 @@
+﻿  Application.cpp
+c:\dev\c++\projects\arpegioengine\sandbox\src\application.cpp(6): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Generando código
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  SandBox.vcxproj -> C:\DEV\C++\PROJECTS\ArpegioEngine\bin\Release-x64\SandBox\SandBox.exe
